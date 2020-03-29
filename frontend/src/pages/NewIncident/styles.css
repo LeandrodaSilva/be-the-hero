@@ -24,6 +24,7 @@
 .new-incident-container .content section {
     width: 100%;
     max-width: 380px;
+    margin-right: 30px;
 }
 
 .new-incident-container .content section h1 {
